@@ -1,1 +1,1 @@
-# Sorting-Visualizer
+# Bubble Sort Visualizer
